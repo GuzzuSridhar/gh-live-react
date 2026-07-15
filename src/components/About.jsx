@@ -1,0 +1,10 @@
+
+function About() {
+    return (
+        <>
+            <h1>About US Page</h1 >
+        </>
+    )
+}
+
+export default About
